@@ -15,8 +15,6 @@
 
 <br>
 
-<br>
-
 🔭 I’m currently working on **NHN Rookie 8th Basecamp Project**.
 
 🌱 I’m currently learning **JavaScript, Springboot, and so on**.
