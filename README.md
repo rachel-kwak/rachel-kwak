@@ -15,9 +15,9 @@
 
 <br>
 
-🔭 I’m currently working on **NHN Rookie 8th Basecamp Project**.
+🔭 I’m currently working on **NHN Dooray! Dev. Office OJT**.
 
-🌱 I’m currently learning **JavaScript, SpringBoot, and so on**.
+🌱 I’m currently learning **HTML/CSS, JavaScript, Vue.js, Spring & SpringBoot, and so on**.
 
 ⚡ Fun fact: I AM A CAFFEINE ADDICT!
 
